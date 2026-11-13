@@ -1,3 +1,4 @@
+
 # React Component Studio
 
 A collection of reusable, interactive UI components built with **React, TypeScript and Tailwind CSS**. This project demonstrates component architecture, reusable design patterns, UI development and component testing.
@@ -5,7 +6,6 @@ A collection of reusable, interactive UI components built with **React, TypeScri
 ## Overview
 
 React Component Studio is a frontend component library featuring reusable components with configurable properties, interactive states and automated tests.
-
 
 ## Screenshots
 
@@ -17,7 +17,6 @@ React Component Studio is a frontend component library featuring reusable compon
 
 ### Interactive Components
 ![Component Library - Interactive Components](screenshots/componentLib3.png)
-
 
 ## Components
 
@@ -52,7 +51,7 @@ Test coverage includes:
 - Input validation and error states
 - Filtering and selection behaviour
 
-Run the tests:
+Run tests:
 
 ```bash
 npm install
@@ -64,7 +63,7 @@ npm run test -- --run
 Clone the repository:
 
 ```bash
-git clone https://github.com/febafrancis-dev/react-typescript-components
+git clone https://github.com/febafrancis-dev/react-typescript-components.git
 ```
 
 Navigate into the project:
